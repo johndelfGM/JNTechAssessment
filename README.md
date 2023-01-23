@@ -11,7 +11,7 @@ Test Case 2: "}{"
 
 Test Case 3: "{{}"
 
-Test Case 4: @"""" (NOTE: Escape the character to make it a double quote)
+Test Case 4: @"""" (**NOTE: Escape the character to make it a double quote**)
 
 Test Case 5: "{abc...def}"
 
