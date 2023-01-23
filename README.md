@@ -1,1 +1,1 @@
-# JNTechAssessment
+# JobNimbus Technical Assessment
