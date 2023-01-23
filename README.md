@@ -1,7 +1,9 @@
 # JobNimbus Technical Assessment
 
+Make sure to set the startup project to **JNTechAssessment.Tests**.
+Then run all test cases.
 
-## Test Cases (sample input strings)
+## Below are the sample test cases
 
 Test Case 1: "{}"
 
